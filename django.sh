@@ -1,10 +1,5 @@
 #!/bin/bash
-# ************************************************************
-# Program: Django Installation Script with Impyla & MySQLdb
-# Developer: Pratik Patil
-# Date: 16-04-2015
-# Last Updated: 28-04-2015
-# ************************************************************
+
 git clone https://github.com/sebastianese/DjangoInstall.git;
 
 #if [ "`lsb_release -is`" == "Ubuntu" ] || [ "`lsb_release -is`" == "Debian" ]
