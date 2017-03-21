@@ -31,6 +31,6 @@ sudo python impyla/setup.py install;
 
 mkdir $HOME/djangogirls
 python3 -m venv /$HOME/myvenv
-source $HOME/myvenv/bin/activate
 
+. $HOME/myvenv/bin/activate &
 
